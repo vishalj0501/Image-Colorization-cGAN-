@@ -19,3 +19,4 @@ Colorization using Conditional-GAN
 <img width="371" alt="Screenshot 2023-03-16 at 11 54 13 PM" src="https://user-images.githubusercontent.com/92500255/225717361-0d119e26-4d76-4ca3-86cb-c33ea4e127f7.png">
 <img width="368" alt="Screenshot 2023-03-16 at 11 54 35 PM" src="https://user-images.githubusercontent.com/92500255/225717439-34eed990-6791-43eb-ac98-46e2f27e3119.png">
 <img width="372" alt="Screenshot 2023-03-16 at 11 54 56 PM" src="https://user-images.githubusercontent.com/92500255/225717513-3e688992-f1fe-4b6e-8aad-598e5a897619.png">
+<img width="369" alt="Screenshot 2023-03-16 at 11 56 30 PM" src="https://user-images.githubusercontent.com/92500255/225717938-2ca07be2-25d0-41d5-8c6a-d693692a3839.png">
