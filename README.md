@@ -20,3 +20,6 @@ Colorization using Conditional-GAN
 <img width="368" alt="Screenshot 2023-03-16 at 11 54 35 PM" src="https://user-images.githubusercontent.com/92500255/225717439-34eed990-6791-43eb-ac98-46e2f27e3119.png">
 <img width="372" alt="Screenshot 2023-03-16 at 11 54 56 PM" src="https://user-images.githubusercontent.com/92500255/225717513-3e688992-f1fe-4b6e-8aad-598e5a897619.png">
 <img width="369" alt="Screenshot 2023-03-16 at 11 56 30 PM" src="https://user-images.githubusercontent.com/92500255/225717938-2ca07be2-25d0-41d5-8c6a-d693692a3839.png">
+
+### Generator and Discriminator Loss
+<img width="556" alt="Screenshot 2023-03-16 at 11 59 18 PM" src="https://user-images.githubusercontent.com/92500255/225718664-e263c301-669d-4a74-9590-3aff67f31a2d.png">
